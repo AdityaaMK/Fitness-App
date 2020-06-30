@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">WorkoutApplication</string>
+
+    <string-array name="resistance_types">
+        <item>Res. Type</item>
+        <item>Barbell</item>
+        <item>Cable</item>
+        <item>Dumbbell</item>
+        <item>Kettlebell</item>
+        <item>Machine</item>
+        <item>Body</item>
+        <item>Unknown</item>
+    </string-array>
+
+    <string-array name="type">
+        <item>Exercise Type</item>
+        <item>Arms</item>
+        <item>Chest</item>
+        <item>Shoulders</item>
+        <item>Core</item>
+        <item>Legs</item>
+        <item>Back</item>
+    </string-array>
+
+    <string-array name="name">
+        <item>Exercise Name</item>
+        <item>Arnold Press</item>
+        <item>Back Extension</item>
+        <item>Bench Press</item>
+        <item>Bicep Curl</item>
+        <item>Burpee</item>
+        <item>Calf Press</item>
+        <item>Calf Raise</item>
+        <item>Chest Dip</item>
+        <item>Chin-Up</item>
+        <item>Clean</item>
+        <item>Clean Jerk</item>
+        <item>Close Grip Bench Press</item>
+        <item>Close Grip Push-Up</item>
+        <item>Crunch</item>
+        <item>Deadlift</item>
+        <item>Decline Bench Press</item>
+        <item>Dip</item>
+        <item>Fly</item>
+        <item>Front Raise</item>
+        <item>Good Morning</item>
+        <item>Hang Clean</item>
+        <item>Hang Power Clean</item>
+        <item>High Knee Run</item>
+        <item>High Row</item>
+        <item>Hip Extension</item>
+        <item>Hip Raise</item>
+        <item>Hip Thrust</item>
+        <item>Incline Bench Press</item>
+        <item>JM Press</item>
+        <item>Jumping Jack</item>
+        <item>Lateral Raise</item>
+        <item>Leg Curl</item>
+        <item>Leg Extension</item>
+        <item>Leg Press</item>
+        <item>Leg Raise</item>
+        <item>Lunge</item>
+        <item>Military Press</item>
+        <item>Pike Press</item>
+        <item>Plank</item>
+        <item>Power Clean</item>
+        <item>Pulldown</item>
+        <item>Pullover</item>
+        <item>Pull-Up</item>
+        <item>Push-Up</item>
+        <item>RDL Deadlift</item>
+        <item>Rear Lateral Raise</item>
+        <item>Rear Lunge</item>
+        <item>Row</item>
+        <item>Russian Twist</item>
+        <item>Seated Calf Raise</item>
+        <item>Shoulder Press</item>
+        <item>Shrug</item>
+        <item>Side Lunge</item>
+        <item>Side Plank</item>
+        <item>Single Leg Deadlift</item>
+        <item>Single Leg Hip Bridge</item>
+        <item>Sit-Up</item>
+        <item>Squat</item>
+        <item>Standing Calf Raise</item>
+        <item>Step-Up</item>
+        <item>Straight Leg Deadlift</item>
+        <item>Swing</item>
+        <item>Thruster</item>
+        <item>Triceps Dip</item>
+        <item>Triceps Extension</item>
+        <item>Twisting Crunch</item>
+        <item>Twisting Sit-Up</item>
+        <item>Upright Row</item>
+        <item>V-Ups</item>
+        <item>Wall Sit</item>
+    </string-array>
+</resources>
